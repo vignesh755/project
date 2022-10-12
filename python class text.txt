@@ -1,0 +1,94 @@
+00:28:01	Aathira:	yes
+00:28:05	Ruban:	s
+00:48:54	Vijayan V:	are you speaking ?
+00:49:23	athinathan:	yes he is speaking
+00:49:36	Hakkim:	Clear
+00:49:36	Karuppasamy:	all good
+00:49:37	mohamed iqbal:	kk
+00:49:39	Priya S:	no doubt
+00:49:40	Simon Squall:	Clear
+00:49:45	bharathi.bhaskaran:	No
+00:49:45	RANJANI:	clear sir
+00:49:46	Albin AS:	clear
+00:49:47	Aa1 pondycherry boy:	clear sir
+00:49:49	Gowthaman:	clear
+00:49:51	Mohan:	clear
+00:50:07	SURESH:	clear
+00:50:12	mohamed iqbal:	clear
+00:50:14	joseph:	its clear
+00:50:17	Simon Squall:	Voice also clear bro
+00:56:40	Mithran J:	https://www.python.org/downloads/
+01:06:57	athinathan:	clr
+01:07:03	Keerthana:	Clear
+01:07:08	Jeeva Mohan kumar:	clear
+01:07:10	Mohan:	clear
+01:07:40	mohamed iqbal:	if use cs50ide in online saving is secure sir
+01:18:38	Dinesh.R:	bro semicolon no need uh for each line?
+01:18:54	Dinesh.R:	k bro
+01:25:20	mohamed iqbal:	clear
+01:28:09	Simon Squall:	At a time ivalo tha print pana mudiyum nu ethavathu limit iruka sir
+01:28:33	Simon Squall:	Ok sir
+01:33:17	athinathan:	same variable can be used for 'n' number of times?
+01:33:40	athinathan:	okay
+01:48:52	athinathan:	clear
+01:54:11	athinathan:	your voice is breaking
+01:54:36	mohamed iqbal:	0 cant be assign u
+01:54:51	mohamed iqbal:	only hole value
+02:00:50	mohamed iqbal:	and +
+02:05:51	Vijayan V:	and or symol can we use or not ?
+02:06:07	Vijayan V:	|| &&
+02:06:28	Vijayan V:	ok thannks
+02:06:40	Priya:	U hve said if v typ print(100+50) then the output will b 10050... but here?
+02:07:18	BALAGANESH:	if v give -
+02:07:36	Priya:	k ji
+02:07:47	Priya S:	k sir I understood
+02:23:05	Mohan:	no doubts
+02:23:18	Simon Squall:	Clear ..
+02:23:21	senthil kumar:	clr
+02:29:46	mohamed iqbal:	if
+02:32:10	mohamed iqbal:	kk
+02:35:39	$undar:	any difference on = and == on syntax?
+02:37:32	manikandan:	sir, what about arrays?
+02:39:29	Pavithra:	thank you
+02:39:49	manikandan:	ok sir
+02:40:47	Mithran J:	https://code.visualstudio.com/
+03:01:25	Pavithra:	clr
+03:12:02	Ganesh:	when class started mithran??
+03:12:14	Theebendaran:	We need to import math function.. and then only for perform this square root activity?
+03:14:17	Kiruba Angeline:	when class started
+03:14:31	mohamed iqbal:	2.10
+03:14:44	sabari:	2:10
+03:14:58	Umar Farook:	2 PM
+03:15:11	thanush:	I was told the class starts at 5
+03:15:13	mathews:	5 pm cls cancelled ?
+03:16:12	Kiruba Angeline:	no one informed
+03:16:15	Sankar Ekambaram:	not cancelled time change only
+03:16:23	Vijay Chowdhary:	yes same here
+03:16:26	mathews:	okay thank you , Mithran
+03:16:27	Ganesh:	but no one informed
+03:16:28	Vijay Chowdhary:	shall we have recording
+03:16:29	thanush:	thank you
+03:16:33	Ganesh:	okay thanks
+03:16:38	mohamed iqbal:	kk
+03:18:36	Paran:	sheduler
+03:18:39	Vijay Chowdhary:	yterminate Insstance scheduler
+03:23:12	Dinesh.R:	json automation in another topic
+03:32:25	Dinesh.R:	unix cmds
+03:32:25	Siva Kumar N:	Linux commands
+03:32:32	sabari:	unix
+03:32:32	Simon Squall:	Shortcut
+03:32:41	prabanjan pravin:	shell commands
+03:32:43	Kanimozhi:	Bash script
+03:32:47	Paran:	bash
+03:37:25	Dinesh.R:	tdy documents you will send uh bro?
+03:38:21	Mithran J:	https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+03:38:36	Mohan:	Thank you Mithran happy and safe journey
+03:38:44	Aathira:	thank you sir
+03:38:55	MARI:	tq sir
+03:39:03	Hema:	tq
+03:39:19	Habeeb.Rahuman:	Thank You!
+03:39:48	Priya S:	thank u
+03:40:33	Sathish Velusamy:	Thank you
+03:41:22	Umar Farook:	Thank you Sir... Much useful... have a pleasant journey...
+03:41:28	Simon Squall:	Tq for the good class sir 😊
+03:41:31	SARAVANAN K:	thank you sir
