@@ -1,0 +1,33 @@
+1. Jenkis Installation
+2. Create a JOb and configure Upstream & Down Stream 
+3. Configure all types of triggers in jenkins
+4. Backup the jenkins job & Configuration files
+5. Store all the configuration files to AWS S3
+6. In How many ways we can able to configure Jenkins Plugins
+7. Setup email notification if jenkins build fails
+8. Note down Jenkins Default path, Jenkins Configuration Path, Jenkins Version, Jenkins Plugins Path
+
+Document above tasks and let me know, will move to next set of tasks in jenkins...
+
+=========================================================================================
+9.  Configure user and assign permission in jenkins
+10. Where does Jenkins Store credentials?
+11. How do you use credentials in Jenkins pipeline?
+12. How do I copy a job from one instance to another?
+13. How to copy jenkins Jobs from one server to another Jenkins server?
+10. Perform an auto-deployment in jenkins on top of tomcat server.
+     Note: Jenkins & Tomcat should be in different Server
+11. Configure Jenkins Master & Slave Configuration.
+    Note: Jenkins Master in Linux  ---> i need two slaves (1. windows & 2. Ubuntu)
+12. Configure Parameterized jobs in jenkins
+13. Install Jenkins on Windows Machine
+
+
+
+
+
+
+What is the difference between Continuous Integration, Continuous Delivery, and Continuous Deployment?
+Write a command to start jenkins via CLI
+Name a few Jenkins environment variables
+ 

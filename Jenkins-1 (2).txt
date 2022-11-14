@@ -1,0 +1,39 @@
+1.What are the ways to install Jenkins?
+2.What is a Jenkins job?
+3.What is a Jenkins Pipeline?
+4.What is Jenkinsfile?
+5.What are some of the default environmental variables in Jenkins?
+6.What are the types of Jenkins pipelines?
+7.Explain Jenkins Multibranch Pipeline?
+8.Do you know any other continuous integration tools? How is Jenkins better than any of those?
+9.What are the credential types supported by Jenkins?
+10.What are the Scopes of Jenkins Credentials?
+11.How do you store credentials in Jenkins securely?
+12.How does Jenkins authenticate users?
+13.What are the three security mechanisms Jenkins uses to authenticate users? 
+14.What are the ways to trigger a Jenkins Job/Pipeline?
+15.What is Jenkins Build Cause?
+16.Write a Syntax for Scripted pipeline & Declarative Pipeline?
+17.What are the ways to configure Jenkins node agent to communicate with Jenkins master?
+18.How do I move Jenkins from one server to another?
+19.How to configure and use a third-party tool in Jenkins?
+20.What is continuous integration, Continous Delivery & Continous Deployment?
+21.Name some of the Jenkins plugins which you have been used in ur project?
+22.What is a Jenkins Shared Library and how it is useful?
+23.How to install a Custom Jenkins Plugin ? In how many ways we can install custom plugin in Jenkins?
+24.What is a Ping Thread in Jenkins and how it works?
+
+Scenrios?
+
+1.What happens when a Jenkins agent is offline and what is the best practice in that situation?
+2.The first job was successful, but the second failed. What should you do next?
+3.How to upgrade jenkins from older version to new version with zero down-time?
+4.There is a broken build in the Jenkins project, then what can be done?
+5.How can you secure Jenkins? Expalin the steps in detail?
+6.How do I reduce the time taken for a build in Jenkins?
+
+
+
+
+
+
