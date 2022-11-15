@@ -1,4 +1,4 @@
-1.What are the ways to install Jenkins?
+1.What are the ways to install Jenkins ?
 2.What is a Jenkins job?
 3.What is a Jenkins Pipeline?
 4.What is Jenkinsfile?
